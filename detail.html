@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SaSa Home</title>
+  <link rel="stylesheet" href="codetruyen/khoa.css">
+  <link rel="icon" type="image/png" href="codetruyen/iconxoi.jpg">
+  <link rel="stylesheet" href="style.css?v=3">
+  <style>
+    .tag { margin: 15px 0 5px; }
+    .detail-view-count { margin: 0 0 10px; color:#8f8f8f; font-size:13px; line-height:1.4; text-align:left; }
+    .detail-view-count span { color:#a0a0a0; font-weight:normal; }
+    .desc { margin-top:0; color:#ddd; line-height:1.9; white-space:pre-line; max-height:220px; overflow-y:auto; padding-right:10px; }
+  </style>
+</head>
+<body>
+
+<div class="topbar">
+  <a href="index.html">Home</a>
+  <a href="romance.html">Romance</a>
+  <a href="lgbt.html">LGBT</a>
+  <a href="eastern.html">Eastern</a>
+</div>
+
+<div class="detail-page" id="detail"></div>
+
+<script src="data.js?v=2"></script>
+<script src="script.js"></script>
+<script>
+const params = new URLSearchParams(location.search);
+const id = params.get("id");
+const story = stories.find(item => item && item.id == id);
+const detail = document.getElementById("detail");
+
+if (!story) {
+  detail.innerHTML = `
+    <div style="text-align:center; padding:100px 20px; color:white;">
+      <h1>❌ Story not found</h1>
+    </div>
+  `;
+} else {
+  /* Genre name + link */
+  let typeName = "Romance";
+  let typeLink = "romance.html";
+  if (story.type === "lgbt")   { typeName = "LGBT";    typeLink = "lgbt.html"; }
+  if (story.type === "eastern") { typeName = "Eastern"; typeLink = "eastern.html"; }
+
+  /* Synopsis (trim leading/trailing whitespace) */
+  const storyDesc = story.desc ? String(story.desc).trim() : "No synopsis yet";
+
+  detail.innerHTML = `
+    <div class="detail-card">
+      <img src="${story.image}" class="detail-img" alt="${story.title}">
+      <div class="detail-info">
+        <h1>${story.title}</h1>
+        <a class="tag" href="${typeLink}">${typeName}</a>
+        <div class="detail-view-count"></div>
+        <div class="desc">${storyDesc}</div>
+        <a href="${story.link}" class="read-btn">Read now</a>
+      </div>
+    </div>
+  `;
+
+  /* Display views only, do not count here */
+  if (typeof loadViewCounts === "function") { loadViewCounts(); }
+}
+</script>
+<script src="codetruyen/script.js"></script>
+</body>
+</html>

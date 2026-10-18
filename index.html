@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SaSa Home</title>
+  <link rel="stylesheet" href="style.css?v=13">
+  <link rel="stylesheet" href="codetruyen/khoa.css">
+  <link rel="icon" type="image/png" href="codetruyen/iconxoi.jpg">
+</head>
+<body>
+
+<header class="topbar">
+  <a href="index.html">Home</a>
+  <a href="romance.html">Romance</a>
+  <a href="lgbt.html">LGBT</a>
+  <a href="eastern.html">Eastern</a>
+</header>
+
+<h1 style="text-align:center; color:#ff5722;">NEW STORIES</h1>
+
+<div class="search-box">
+  <input type="text" id="search" placeholder="🔍 Search by title or story number" autocomplete="off">
+</div>
+
+<div class="container" id="list"></div>
+
+<script src="data.js"></script>
+<script src="script.js"></script>
+<script>
+const list = document.getElementById("list");
+const search = document.getElementById("search");
+
+/* ===== NORMALIZE KEYWORD ===== */
+function normalizeText(str) {
+  return String(str || "")
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/đ/g, "d")
+    .replace(/Đ/g, "D")
+    .toLowerCase()
+    .trim();
+}
+
+/* ===== BUILD SEARCH TITLE ===== */
+stories.forEach(item => {
+  if (!item) return;
+  item.searchTitle = normalizeText(item.title);
+});
+
+/* ===== RENDER ===== */
+function render(data) {
+  list.innerHTML = "";
+  const sorted = data.filter(item => item).sort((a, b) => b.id - a.id);
+
+  sorted.forEach((item, index) => {
+    if (!item) { console.log("Error at:", index); return; }
+    list.innerHTML += `
+      <a class="book" href="detail.html?id=${item.id}">
+        <img src="${item.image}" alt="${item.title}">
+        <div class="view-count"></div>
+        <h2>${item.title}</h2>
+      </a>
+    `;
+  });
+
+  /* Only reads current view counts, never increments */
+  if (typeof loadViewCounts === "function") { loadViewCounts(); }
+}
+
+/* ===== DEBUG ===== */
+console.log("Total stories:", stories.length);
+stories.forEach((item, index) => {
+  if (!item) { console.log("Empty item at index:", index); }
+});
+
+render(stories);
+
+/* ===== SEARCH BY TITLE OR ID ===== */
+search.addEventListener("input", function () {
+  const value = normalizeText(this.value);
+  if (!value) { render(stories); return; }
+
+  const filtered = stories.filter(item => {
+    if (!item) return false;
+    const titleMatch = item.searchTitle.includes(value);
+    const idMatch = String(item.id).toLowerCase().includes(value);
+    return titleMatch || idMatch;
+  });
+
+  render(filtered);
+});
+
+search.addEventListener("keydown", function (event) {
+  if (event.key === "Enter") { event.preventDefault(); this.blur(); }
+});
+</script>
+<script src="codetruyen/script.js"></script>
+</body>
+</html>
