@@ -12,19 +12,19 @@ let scrollTrackingReady = true;
 
 /* Mật khẩu của từng ngày */
 const DAILY_PASSWORDS = {
-    "2026-10-05": "411694"
+    "2026-10-18": "914102"
 };
 
 /* Link 1 của từng ngày */
 const DAILY_LINK_1 = {
-    "2026-10-05":
-        "https://link-center.net/1317435/aUjWtfCxSnm9"
+    "2026-10-18":
+        "https://link-target.net/1317435/XflkbykfkJlg"
 };
 
 /* Link 2 của từng ngày */
 const DAILY_LINK_2 = {
-    "2026-10-05":
-        "https://link-center.net/1317435/dPrrnlP3Skkb"
+    "2026-10-18":
+        "https://direct-link.net/1317435/X80tvXLfRUvj"
 };
 
 /* true  = nếu hôm nay chưa khai báo thì dùng dữ liệu của ngày gần nhất trước đó
