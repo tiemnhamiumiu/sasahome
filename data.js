@@ -296,9 +296,9 @@ Ethan whimpered, wanting to cry but unable to make a sound:
 "No! Want!"`
   },{
     id: 15,
-    title: "Reborn as a Man",
+    title: "Woman Reborn as a Man",
     image: "https://ia800406.us.archive.org/14/items/sasahome_img/reborn-as-a-man.png",
-    link: "eastern/reborn-as-a-man.html",
+    link: "eastern/woman-reborn-as-a-man.html",
     type: "eastern",
     desc: `In the previous life, He Xi poisoned Gu Xiuhe, the wife of humble beginnings who had shared every hardship and every joy with He Xi, all for the sake of marrying a princess.
 
