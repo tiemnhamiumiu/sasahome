@@ -203,6 +203,183 @@ Killing intent filled the Sixth Prince's gaze: [That girl dares to curse me in h
 
 Heavens above, the Sixth Prince could hear Wanzhi's thoughts as well!
 `
+  },{
+    id: 10,
+    title: "The Top Star's Ten Year Secret",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/the-top-stars-ten-year-secret.png",
+    link: "romance/the-top-stars-ten-year-secret.html",
+    type: "romance",
+    desc: `My account got hacked.
+
+The scammer used my contact note labels to borrow money from every single one of my friends.
+
+Except the message sent to Sean was: "Hubby, are you there?"
+
+In that exact moment, my ten-year unrequited crush had nowhere left to hide.
+`
+  },{
+    id: 11,
+    title: "My Late Boyfriend Became a Cat",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/my-late-boyfriend-became-a-cat.png",
+    link: "lgbt/my-late-boyfriend-became-a-cat.html",
+    type: "lgbt",
+    desc: `After my boyfriend passed away, I adopted the cat he used to care for.
+
+The cat was extremely well-behaved, except for one thing: he maintained a fierce, bitter hostility toward any man who tried to get close to me.
+
+When a kind male coworker gave me a ride home, the cat pounced and planted a hard punch right on his face.
+
+When my childhood best friend came over for dinner, he slapped him straight across the cheek with his tail.
+
+On top of that, he loved hijacking my jacket to turn it into his personal nest.
+
+Out of respect for his status as the only keepsake my boyfriend left behind, I tolerated everything.
+
+Yet, what was the meaning of him sneaking over every single night to suck on my lips?
+
+I was seriously considering whether to send him back to the countryside to be raised when I suddenly noticed something bizarre.
+
+How could this cat’s behavior and habits be the exact, uncanny spitting image of my deceased boyfriend?
+`
+  },{
+    id: 12,
+    title: "A Debt of One Bridal Sedan Chair",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/a-debt-of-one-bridal-sedan-chair.png",
+    link: "eastern/a-debt-of-one-bridal-sedan-chair.html",
+    type: "eastern",
+    desc: `When Ji Shuyan left for the capital to sit for the imperial examinations, Bai Nianqiu handed over every coin of the savings put aside over the years.
+
+Not a single coin was held back.
+
+At the ferry landing where the two parted, Ji Shuyan pulled Bai Nianqiu close and whispered a promise:
+
+"When the willows shade the lake next spring, I will surely ride home on a tall horse to fetch you."
+
+In the third month of the following year, glad tidings did arrive: Ji Shuyan had placed first and become the Zhuangyuan.
+
+Ji Shuyan sent a carriage back to the old hometown to bring Bai Nianqiu to the capital.
+
+But at the very moment Bai Nianqiu set foot in the capital, the court issued an imperial edict bestowing a marriage on Ji Shuyan.
+
+Bai Nianqiu watched Ji Shuyan bow low to receive the edict, eyes full of helpless anguish.
+
+That night, Bai Nianqiu sat in a small room waiting quietly for dawn, hands wiping, over and over, the saber that had been at Bai Nianqiu's side for so many years.
+`
+  },{
+    id: 13,
+    title: "The Ten Year Wish Wall",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/the-ten-year-wish-wall.png",
+    link: "romance/the-ten-year-wish-wall.html",
+    type: "romance",
+    desc: `I stepped into the coffee shop by chance and found the wish wall covered with my name.
+
+As I pulled down a sticky note to read it closely, I was suddenly pulled ten years back in time, returning to my high school years.
+
+It turned out that during those exhausting high school days, while I was busy admiring everyone else's youth, there was a boy who silently loved me with all his heart.
+`
+  },{
+    id: 14,
+    title: "Bound by the Serpent",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/bound-by-the-serpent.png",
+    link: "lgbt/bound-by-the-serpent.html",
+    type: "lgbt",
+    desc: `Ethan's boyfriend was the celibate type, strictly look but never touch.
+
+Fed up, Ethan dumped him on the spot.
+
+Who could have guessed that afterward Ethan would end up bound to the head of a bed, with Elias's snake tail coiled tight around Ethan's body, leaving not a single gap?
+
+"Do you want to know what the difference is between the snake body and the human body of a male snake?"
+
+Ethan whimpered, wanting to cry but unable to make a sound:
+
+"No! Want!"`
+  },{
+    id: 15,
+    title: "Reborn as a Man",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/reborn-as-a-man.png",
+    link: "eastern/reborn-as-a-man.html",
+    type: "eastern",
+    desc: `In the previous life, He Xi poisoned Gu Xiuhe, the wife of humble beginnings who had shared every hardship and every joy with He Xi, all for the sake of marrying a princess.
+
+In this life, Gu Xiuhe was reborn, but inside the body of a man. What was more, Gu Xiuhe passed the examinations and took the title of Zhuangyuan one step ahead of He Xi.
+
+The Princess took one look at Gu Xiuhe and was smitten, and resolved to marry down and wed Gu Xiuhe.
+
+On the day of the grand wedding, He Xi caught Gu Xiuhe's hand, eyes red and voice choked: "Don't marry her... Come back to me, will you?"
+
+Gu Xiuhe gave a cold laugh. "How dare you! Mocking a superior official! Guards, drag him out and give him twenty strokes of the rod for me!"
+`
+  },{
+    id: 16,
+    title: "Mind Readers, Ruined Lives",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/mind-readers-ruined-lives.png",
+    link: "romance/mind-readers-ruined-lives.html",
+    type: "romance",
+    desc: `When I was finally brought back to the Song family home, I shrank into myself, doing my best to look terrified and timid.
+
+If I remembered correctly from what she said, my younger sister claimed our mother enjoyed beating her children. Would I get a beating the moment I set foot inside?
+
+Sitting on the couch, our mother was comforting the fake heiress. Her hand froze mid-pat, her fingers going stiff against the girl's back.
+
+My sister used to look at our father with such longing in her eyes. I wondered if she picked that habit up from our mother.
+
+The woman’s face paled instantly upon hearing those words, her expression turning into a mask of pure shock and speechlessness.
+
+My sister also mentioned that our older brother could only last for a single minute. What in the world did a minute even mean?
+
+Standing nearby, my older brother’s expression darkened in an instant, his complexion turning a sickly, ghostly white.
+
+I kept these thoughts rolling quietly through my mind, watching as the faces of everyone in the room shifted through a vibrant spectrum of colors.
+
+All the while, I kept a subtle, innocent smile playing on my lips.
+`
+  },{
+    id: 17,
+    title: "Seven Days of Goodbye",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/seven-days-of-goodbye.png",
+    link: "lgbt/seven-days-of-goodbye.html",
+    type: "lgbt",
+    desc: `Porter had died, and all Porter asked was that Julian forget.
+
+Porter kept a private love hidden from the world, wanting no one to know of it. Porter hoped only that Julian could forget, because Porter no longer lived in this world.
+`
+  },{
+    id: 18,
+    title: "The Prince Consort Demands a Concubine",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/the-prince-consort-demands-a-concubine.png",
+    link: "eastern/the-prince-consort-demands-a-concubine.html",
+    type: "eastern",
+    desc: `Shen Huaiming led Zhao Jing'er, heavy with child, before Zhao Xuanwan and demanded that Zhao Xuanwan nod and permit him to take her as a concubine.
+
+Zhao Xuanwan did not weep, did not make a scene, and certainly did not hang a white silk sash from the rafters. Zhao Xuanwan simply decreed death for the pair of scoundrels!
+
+The moment word came that the Prince Consort had returned with a pregnant woman, Ju Yue, Zhao Xuanwan's closest maid, had sharpened a knife to a gleam and now waited eagerly for orders.
+
+"Your Highness, shall we go deal with that pair of scoundrels right now?"
+
+Zhao Xuanwan answered calmly. "No hurry."
+
+The smile on Ju Yue's face stiffened for a moment before she nodded briskly. "Yes, Your Highness."
+
+Zhao Xuanwan yawned. "I'm sleepy. Help this princess to bed. Let the Prince Consort and that woman kneel outside the main hall. If either dares to defy the order, the guards of the estate may punish without mercy."
+
+Court Lady Chen hesitated. "But the Prince Consort is, after all, a scion of a great clan. If this gets out, will it not harm Your Highness's good name?"
+
+Zhao Xuanwan gave a cold smile. "Within this princess's estate, this palace is the highest authority."
+
+Court Lady Chen understood and withdrew with a satisfied bow.
+
+Ju Yue spat in the Prince Consort's direction before helping Zhao Xuanwan inside.
+
+Every table, chair, and ornament in the bedchamber was lavish and gleaming, thick with the scent of money. Each time Shen Huaiming stepped through the door, the disgust on his face had never been hidden.
+
+Zhao Xuanwan swallowed the lingering irritation. The mere thought of being rid of that dull man with no taste filled the heart with delight!
+
+The thought of dealing with Zhao Jing'er in the same stroke doubled that delight!
+
+Carried along by that cheerful mood, Zhao Xuanwan sank onto the soft bed layered with three silk quilts, buried a face in the pillow, and fell into deep sleep.
+`
   },
   
 
