@@ -296,7 +296,7 @@ Ethan whimpered, wanting to cry but unable to make a sound:
 "No! Want!"`
   },{
     id: 15,
-    title: "Woman Reborn as a Man",
+    title: "Reborn as a Man",
     image: "https://ia800406.us.archive.org/14/items/sasahome_img/reborn-as-a-man.png",
     link: "eastern/reborn-as-a-man.html",
     type: "eastern",
@@ -379,6 +379,203 @@ Zhao Xuanwan swallowed the lingering irritation. The mere thought of being rid o
 The thought of dealing with Zhao Jing'er in the same stroke doubled that delight!
 
 Carried along by that cheerful mood, Zhao Xuanwan sank onto the soft bed layered with three silk quilts, buried a face in the pillow, and fell into deep sleep.
+`
+  },{
+    id: 19,
+    title: "The Vet in the Beastkin World",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/the-vet-in-the-beastkin-world.png",
+    link: "romance/the-vet-in-the-beastkin-world.html",
+    type: "romance",
+    desc: `Willa was a veterinarian who had been yanked into a beastkin novel.
+
+When Willa's eyes opened, three beastkin slaves lay in the room. One of them, Cole, was pinned beneath a bare foot, wrists bound tight with a necktie. Willa panicked so badly that the dagger flew clean out of a slackened grip.
+
+Good God, those three slaves were destined to become the all-powerful villains of this story! Once they had made their fortunes, they would come back and torture the original owner of this body to death.
+
+Right now, the three beastkin were straining to keep their eyes open, glaring with bottomless hatred and snarling for Willa to get lost. Yet later, those same three would willingly put on collars and kneel on one knee beside Willa's bed.
+
+“Mistress, may I stay tonight?”`
+  },{
+    id: 20,
+    title: "Who Really Got Hooked",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/who-really-got-hooked.png",
+    link: "lgbt/who-really-got-hooked.html",
+    type: "lgbt",
+    desc: `Theo sent Adrian a snapshot of a thigh, Theo's own.
+
+"Senior, could you help me write my practicum report?"
+
+Adrian replied instantly:
+
+"Baby, forget the report, I'd hand you my whole life!"
+`
+  },{
+    id: 21,
+    title: "Father's White Moonlight",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/fathers-white-moonlight.png",
+    link: "eastern/fathers-white-moonlight.html",
+    type: "eastern",
+    desc: `Everyone in the capital knew that Shen Yu's heart held only the image of the valiant female General, the one and only white moonlight of that heart.
+
+Yet Shen Qingmeng's mother had secretly drugged Shen Yu's wine and climbed into the bed.
+
+After that night, Shen Qingmeng's mother became pregnant with Shen Qingmeng.
+
+Shen Qingmeng's mother had believed that a child would bring favor and reward. But Shen Yu had never accepted any of it.
+
+Thanks to the Old Madam, who stood forward to protect the unborn child, Shen Qingmeng had the chance to be born and let out a first cry.
+
+A few years later, the female General returned from battle in glory. Without a flicker of regret, Shen Yu drove Shen Qingmeng and Shen Qingmeng's mother out of the estate at once.
+
+Shen Qingmeng's mother resented the child, saw only a troublesome burden, and no longer cared to keep Shen Qingmeng.
+
+But at the very moment the mother moved to cast Shen Qingmeng aside, the female General appeared.
+
+Walking through dazzling light, the General reached a hand toward Shen Qingmeng.
+
+"Would you like to come home with me?"
+`
+  },{
+    id: 22,
+    title: "The Last Song for a Sinner",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/the-last-song-for-a-sinner.png",
+    link: "romance/the-last-song-for-a-sinner.html",
+    type: "romance",
+    desc: `Before the wedding, Julian had made a point of seeming impatient, even announcing flatly that once married, the two would go their separate ways and never interfere in each other's lives.
+
+Nora raised a glass with a faint smile. "Perfect."
+
+From that moment on, marriage for Nora and Julian became a war between two proud people. Whoever fell first, lost.
+
+Then, on Julian's birthday of all days, it was Julian who bowed, voice faltering for just a moment.
+
+"I give up. Can we stop playing this game? Please?"
+`
+  },{
+    id: 23,
+    title: "Cannot Walk Together to the End of Life",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/cannot-walk-together-to-the-end-of-life.png",
+    link: "lgbt/cannot-walk-together-to-the-end-of-life.html",
+    type: "lgbt",
+    desc: `Three years into living together with Julian, he suddenly lost his memory.
+
+He couldn't fathom the reality that he was married.
+
+"Married an Omega? No way!"
+
+"The thing I hate most is a fragile, delicate Omega!"
+
+"Weak, useless, crying over every little thing."
+
+"Ask me to marry someone like that? I'd rather stay single for the rest of my life!"
+
+"Divorce! I want a divorce!"
+
+His best friend tried to reason with him. "You chased him for so long before bringing him home. Are you sure you don't even want to meet him once before deciding?"
+
+Julian didn't hesitate for a second. "Meet who? In this lifetime, I will never have any interest in an Omega!"
+
+I stayed silent, privately calculating how hard I should punch Julian to knock some sense back into him.
+
+Yet the moment his eyes landed on me, they lit up brilliantly. "Hi there, can we get to know each other?"
+
+I let out a cold laugh. "Too bad. I'm already married."
+`
+  },{
+    id: 24,
+    title: "Selling Pork to Raise an Imperial Physician",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/selling-pork-to-raise-an-imperial-physician.png",
+    link: "eastern/selling-pork-to-raise-an-imperial-physician.html",
+    type: "eastern",
+    desc: `Miss Jiang's father had gone to live as a son-in-law in another family's household.
+
+Miss Jiang was only the illegitimate child he kept hidden away outside.
+
+When Miss Jiang turned five, the father and mother ran off together and left Miss Jiang utterly alone.
+
+In those hungry days, Miss Jiang chewed dry straw pulled from rooftops and slurped the thin dregs of soup left in the slop barrel.
+
+Once, the beggar children beat Miss Jiang half to death, and just as the end seemed near, a woman from the market appeared like a goddess descending to earth. She was a butcher, notorious for her ferocious temper.
+
+She was in fact the lawful wife of Miss Jiang's father, a woman with no children of her own.
+
+People pointed at her back and cursed her as a "lonely tigress," and her life was far from easy.
+
+Miss Jiang learned from her how to slaughter hogs and sell meat. Together they weathered one upheaval of war after another, and in the end, after the bitter came the sweet.
+
+Later, Miss Jiang became a female imperial physician honored with a title by the Emperor, while Jiang Dasao leisurely enjoyed the pleasure of children and grandchildren gathered around the bed.
+
+Just then, Miss Jiang's father suddenly reappeared, saying he wished to make amends to Miss Jiang and even demanding to rekindle old ties with Jiang Dasao.
+
+Miss Jiang only gave a cold laugh and produced a deed severing all ties. Jiang Dasao snatched up the hog-butchering knife and chased the father at a dead run through five streets.
+`
+  },{
+    id: 25,
+    title: "The Price of Indulgence",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/the-price-of-indulgence.png",
+    link: "romance/the-price-of-indulgence.html",
+    type: "romance",
+    desc: `Vivian's nephew had been born with a vicious, cruel streak, and not one person in her family would admit it.
+
+When he demanded hot pot, the whole family jumped to give him what he wanted.
+
+At the restaurant, the boy went out of his way to cause trouble and pick a fight with the table next door. Vivian rushed to her feet to apologize on his behalf, but Donna slapped her hard across the face and defended the boy with everything she had.
+
+Nobody could have guessed that the man at the next table was a killer with nothing left to lose. Furious, he picked up the whole pot of boiling broth and hurled it straight at the boy.
+
+In the panic, Kevin grabbed Vivian and shoved her out in front. Scalding broth crashed over her, and she writhed on the floor in agony. Before she could even push herself up, she was cut down in the chaos.
+
+When Vivian opened her eyes again, her nephew was provoking the table next door once more.
+
+She shot to her feet, grabbed the first excuse that came to mind, and ran.
+
+Not long after, Donna called, sobbing hysterically. The boy had had his head shoved into the hot pot.
+`
+  },{
+    id: 26,
+    title: "The Young Master's Classmate",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/the-young-masters-classmate.png",
+    link: "lgbt/the-young-masters-classmate.html",
+    type: "lgbt",
+    desc: `Wren had been Julian's classmate since childhood. Everyone praised Wren for having achieved so much at such a young age, for having earned no small amount of money.
+
+Wren flushed red, unable to admit the truth: Wren had only ever been a "triple warmth" classmate, the kind who warmed a bed, then a tongue, and finally an entire body, all of them Julian's.
+
+In the very year Julian loved Wren most deeply, Wren took a sum of money and chose to leave. Julian, always so rational and gentle, lost all control and went mad over Wren.
+
+Julian held Wren in a crushing embrace, clinging without letting go, kissing and biting at once.
+
+Dizzy, Wren begged, and the only answer was Julian's low, hoarse voice:
+
+"Look in the mirror. Do you know what I'm doing to you? You can't even stand anymore, can you, baby? Let me carry you up, all right?"
+`
+  },{
+    id: 26,
+    title: "Loving Obsessively Across Two Lifetimes",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/loving-obsessively-across-two-lifetimes.png",
+    link: "eastern/loving-obsessively-across-two-lifetimes.html",
+    type: "eastern",
+    desc: `In the previous life, Qin Yan died on the very night Su Miao was married to Qin Yan to ward off misfortune.
+
+While Qin Yan lived, Su Miao hated the man to the bone for shutting Su Miao away in a deep, secluded villa and destroying the match with the Crown Prince. Su Miao hated Qin Yan even more for believing that Qin Yan had plotted the ruin of the Su clan.
+
+But only at the very end did the truth come clear.
+
+The one who had saved Su Miao's life, the one who had once promised to walk together until white hair, was Qin Yan. The one who had endured every bitterness in silence to protect the entire Su clan was also Qin Yan.
+
+And yet Qin Yan was already dead.
+
+Amid a sea of flames kindled by Su Miao's own hand, Su Miao climbed into Qin Yan's coffin and set out along the cold road to the Yellow Springs at Qin Yan's side:
+
+"Qin Yan, tonight is the night of our wedding. This coffin is narrow, but it is enough for the two of us to share a pillow."
+
+...
+
+When Su Miao opened both eyes again, seven years had been turned back.
+
+The handsome youth beside the bed lowered a lazy gaze and looked down with cold eyes:
+
+"Since when has Miss Su awakened enough to throw herself into another's arms, and even offer to share a pillow?"
 `
   },
   
