@@ -577,6 +577,195 @@ The handsome youth beside the bed lowered a lazy gaze and looked down with cold 
 
 "Since when has Miss Su awakened enough to throw herself into another's arms, and even offer to share a pillow?"
 `
+  },{
+    id: 28,
+    title: "No Need for a Second Glass of Warm Milk",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/no-need-for-a-second-glass-of-warm-milk.png",
+    link: "romance/no-need-for-a-second-glass-of-warm-milk.html",
+    type: "romance",
+    desc: `Since childhood, Nora had been promised as the future daughter-in-law of the Hale family.
+
+At twenty, Nora married Barret Hale.
+
+At twenty-four, Nora gave birth to Theodore Hale.
+
+The boy was the image of Barret, quiet and sparing with words, and hardly ever close to Nora.
+
+Every night before bed, Nora warmed three glasses of milk for the family.
+
+But tonight, Barret fumbled a glass and let it spill, and Theo sneaked off to pour the milk down the drain.
+
+In that moment, Nora felt suddenly, completely drained.
+
+When Nora slid the divorce papers across the table, Barret frowned in displeasure. "Is this really about that?"
+
+"Yes. Just that."`
+  },{
+    id: 29,
+    title: "The Best Friend Roommate Who Forced a Kiss",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/the-best-friend-roommate-who-forced-a-kiss.png",
+    link: "lgbt/the-best-friend-roommate-who-forced-a-kiss.html",
+    type: "lgbt",
+    desc: `The basketball game had just ended, and Asher Hale happened to have invited a younger cousin along to watch. Who could have guessed that afterward Elliot would take an immediate interest in Nathan Cross, Asher's closest friend?
+
+Generous by nature, Asher figured that being a good guy meant doing it all the way, and went with the flow by sending Nathan's Messenger account over so the two could get acquainted.
+
+Less than two days later, Elliot sent a tearful message saying that Nathan had flatly deleted the connection.
+
+Asher was livid and marched off at once to demand an explanation.
+
+In the end, the best friend pinned Asher down and kissed Asher by force.
+
+Asher was ready to explode!`
+  },{
+    id: 30,
+    title: "The Inner Voice of the Snow Mountain Lotus",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/the-inner-voice-of-the-snow-mountain-lotus.png",
+    link: "eastern/the-inner-voice-of-the-snow-mountain-lotus.html",
+    type: "eastern",
+    desc: `Chen Beihuan had barely transmigrated into the foolish supporting female lead who drugs the male lead when a jumble of chaotic voices rang out in Chen Beihuan's head.
+
+[Why hasn't my good girl made a move yet? Am I being too forward?]
+
+[This time I should bite off less of the medicine, or I won't be able to hold back again.]
+
+[I want to kiss my good girl so much...]
+
+???
+
+Chen Beihuan startled, and the pill slipped from the fingers and dropped by accident into the male lead's mouth.
+
+The male lead swallowed at once, with a gulp.
+
+Hey, brother? The female lead had not even shown up yet!
+
+Chen Beihuan scrambled to flee, only to be pulled tight into the male lead's arms.
+
+Click.
+
+The sound of the door being locked rang out.
+`
+  },{
+    id: 31,
+    title: "Secret Romance with the Best Friend’s Brother",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/secret-romance-with-the-best-friends-brother.png",
+    link: "romance/secret-romance-with-the-best-friends-brother.html",
+    type: "romance",
+    desc: `Aurora had a date with the boyfriend and insisted on dragging Summer along as the third wheel.
+
+Now it had all gone wrong. Summer, Aurora, and the boyfriend had been hauled down to the station by the vice squad, straight out of a bar.
+
+Spotting the captain striding toward the group, Aurora went white as a sheet. “Oh no. That’s my brother!”
+
+Quick as a flash, Aurora shoved the blond boyfriend in Summer’s direction.
+
+Then Aurora turned to Ethan with a strained smile. “Um... Summer was out on a date with her boyfriend and wouldn’t let it go until I came along, okay?”
+
+The man’s gaze shifted to Summer, who tipped back to study the ceiling, pretending to have nothing to do with any of it.
+
+That night, a man’s warm breath settled over Summer. An arm locked around Summer’s waist like a collector demanding the principal and the interest both. “Baby, besides me, you’ve got another boyfriend?”
+`
+  },{
+    id: 32,
+    title: "The Temporary Marking Contract",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/the-temporary-marking-contract.png",
+    link: "lgbt/the-temporary-marking-contract.html",
+    type: "lgbt",
+    desc: `Having forgotten to bring the suppressants, Dylan could only cry and beg a sworn enemy to bite down on the back of Dylan's neck.
+
+Nathan froze for a moment, and then a sly, wicked smile slowly curved into place:
+
+“Fine, but I have conditions.”
+
+“From now on, I want to look at that gorgeous face of yours every single day, and to watch you get so... impatient that you can't wait a second longer.”
+`
+  },{
+    id: 33,
+    title: "The Princess Forcibly Binds a Handsome Man and Brings Home the Catch",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/the-princess-forcibly-binds-a-handsome-man-and-brings-home-the-catch.png",
+    link: "eastern/the-princess-forcibly-binds-a-handsome-man-and-brings-home-the-catch.html",
+    type: "eastern",
+    desc: `Lu Wuyou had fawned over Cui Yan for three months straight, yet Cui Yan still stubbornly refused to yield.
+
+So Lu Wuyou had no choice but to resort to the last and lowest trick of all: seizing Cui Yan by force!
+
+What Lu Wuyou never guessed was that on the very day Cui Yan was trussed up and carried back to the estate, Cui Yan's heart hammered with helpless delight.
+`
+  },{
+    id: 34,
+    title: "The Love Trap Between Sworn Rivals",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/the-love-trap-between-sworn-rivals.png",
+    link: "romance/the-love-trap-between-sworn-rivals.html",
+    type: "romance",
+    desc: `That damn idiot Grant Whitmore had gone and thrown Grant's whole heart headfirst into an online romance.
+
+Grant's mother had offered Nora Hayes a million dollars to pull Grant out of that swamp.
+
+So all summer long, Nora ran a secondary account, purring sweet, breathy nothings to Grant every single day until Grant was so hopelessly hooked there was no way out.
+
+Right before the new semester started, Nora staged a deathbed drama, claiming a terminal illness. Once Grant's savings were safely in hand, Nora vanished without a trace.
+
+After that, Grant cut off every last bit of feeling.
+
+It was only after classes began, during a game night with a roommate, that Nora spotted a jungler carrying the entire team. Nora switched on the same syrupy voice and begged the stranger to carry again.
+
+The voice chat clicked on at the other end, and a voice came through, grinding out every word through clenched teeth: "Nora Hayes, how come I never noticed that fake-sweet voice of yours sounds exactly like my online ex-girlfriend's?"
+`
+  },{
+    id: 35,
+    title: "Catching a Little Cat Spirit",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/catching-a-little-cat-spirit.png",
+    link: "lgbt/catching-a-little-cat-spirit.html",
+    type: "lgbt",
+    desc: `Waking from a deep sleep, James was stunned to find that a young man had appeared in the bed at some point without a sound.
+
+The stranger had striking silver hair, deep, dark eyes, and a face so delicate it looked almost sculpted. Right now the young man lay curled up obediently against James's chest.
+
+James's scalp went numb. Before closing the eyes last night, what had been in James's arms was a cat, for heaven's sake.
+
+So where had the scruffy, fluffy little thing that shed all day gone? Where had that big-bottomed cat vanished to?
+
+Where on earth had this kid come from?
+
+While James was still reeling, the young man slowly lifted the head. The round eyes were a clear blend of blue and amber, and they lit up in the morning sunlight.
+
+"You're awake?"
+
+The young man parted the lips to show neat white teeth and smiled, a smile that was startlingly sweet.
+
+Then, bold as brass, the young man pushed up and crawled onto James's chest, pressing both soft hands against the firm muscle there.
+
+With a perfectly steady rhythm, the young man began to knead gently.
+
+Seeing James simply staring with wide eyes, unable to get out a single word, the young man tilted the head, the whole face filled with puzzlement.
+
+"Master?"`
+  },{
+    id: 36,
+    title: "An Old Flame Is Like a Tight Shoe",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/an-old-flame-is-like-a-tight-shoe.png",
+    link: "eastern/an-old-flame-is-like-a-tight-shoe.html",
+    type: "eastern",
+    desc: `The news that Pei Huai's white moonlight had divorced reached the capital, and Gu Wanqing knew then that the day the pair would part ways could not be far off.
+
+After more than a month of icy silence, Pei Huai bought pastries for that other woman and, almost as an afterthought, pressed a box of cloud cakes into Gu Wanqing's arms with a cold remark:
+
+"Haven't I kept you in mind all along? Why put on such airs?"
+
+Gu Wanqing did not argue. A quiet smile, and the box was accepted.
+
+Pei Huai seemed faintly startled and, without thinking, pressed a hand to the box of golden crab pastries hidden against the front of Pei Huai's robe.
+
+Those were the pastries the woman in Pei Huai's heart loved best.
+
+Today was that woman's birthday, and Pei Huai had run all over the capital just to buy gifts to win a beauty's favor.
+
+As for the box of cloud cakes in Gu Wanqing's hands, it was nothing but leftovers picked up along the way for convenience's sake.
+
+In the past, Gu Wanqing would surely have made a scene and demanded an answer.
+
+But this time, Gu Wanqing was truly, thoroughly tired.
+`
   },
   
 
