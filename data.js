@@ -766,6 +766,168 @@ In the past, Gu Wanqing would surely have made a scene and demanded an answer.
 
 But this time, Gu Wanqing was truly, thoroughly tired.
 `
+  },{
+    id: 37,
+    title: "The Heiress Who Bullied the Yandere Male Lead",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/the-heiress-who-bullied-the-yandere-male-lead.png",
+    link: "romance/the-heiress-who-bullied-the-yandere-male-lead.html",
+    type: "romance",
+    desc: `Vivian transmigrated into the heroine of a yandere novel.
+
+Vivian's current mission was to plant a foot on the male lead's head.
+
+"Bark like a dog, and I'll consider letting you off."
+
+Nathaniel obeyed meekly, showing no anger at all, and the darkening meter hardly budged.
+
+Then one day, Vivian mistook Nathaniel's twin brother for Nathaniel and bullied the wrong man on a whim.
+
+Vivian had barely stepped out of the room when Nathaniel snapped. Bound tight and flung back onto the bed, Vivian felt a furious hand clamp around the jaw while a smile soaked in sick, frenzied madness hovered above.
+
+"Miss Sterling, who said you could go looking for someone else?"
+
+"Is he more obedient than me? Does he please you more than I do?"
+`
+  },{
+    id: 38,
+    title: "Bullying the Male Lead",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/bullying-the-male-lead.png",
+    link: "lgbt/bullying-the-male-lead.html",
+    type: "lgbt",
+    desc: `Transmigrating into a campus redemption novel, Owen becomes the school tyrant who specializes in bullying the male lead!
+
+Barely arrived, Owen grabbed a collar and was about to throw a punch.
+
+Facing Rowan’s ice-cold gaze, Owen panicked, squeezed both eyes shut, and kissed Rowan on the spot!
+
+Owen’s voice shook as the threat came out: “W-what are you looking at! I… I was only taking a taste…”
+
+Later, Owen sobbed and begged Rowan to let go: “I… I can’t eat anymore…”
+`
+  },{
+    id: 39,
+    title: "The Transmigrated Palace Maid and the Crippled Princess",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/the-transmigrated-palace-maid-and-the-crippled-princess.png",
+    link: "eastern/the-transmigrated-palace-maid-and-the-crippled-princess.html",
+    type: "eastern",
+    desc: `Li Ni's elder sister brought about a fall that broke Li Ni's leg, binding Li Ni's life to a wheeled chair and making of Li Ni a crippled princess.
+
+Out of sheer boredom, Li Ni kept a transmigrator girl close at hand for amusement.
+
+The girl understood nothing of proper conduct, and was strangely short on courage besides.
+
+Every day Putao wept and muttered: "Why didn't I read more novels back then? What was I doing, buried in medical studies..."
+
+Li Ni watched, vexed, and privately concluded that this transmigrator was beyond all help in foolishness.
+
+Later, it was Putao who healed Li Ni's legs. Li Ni then casually shipped the elder sister off to the Northern Barbarians in a marriage alliance.
+`
+  },{
+    id: 40,
+    title: "Stealing the Spotlight",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/stealing-the-spotlight.png",
+    link: "romance/stealing-the-spotlight.html",
+    type: "romance",
+    desc: `After checking the entrance exam scores, Claire could consider the road to Stanford completely wide open. Madison, by sharp contrast, had a ticket waiting for nothing grander than a job hauling loads or laying brick on a construction site.
+
+When the results came in, Madison lost it. Every object within reach got smashed, and the screaming came out wild and unhinged: "Didn't you all promise I'd take her place at college? The one getting into Stanford should have been me!"
+
+Claire curled up one corner of a cold smile. A fantasy like that could only have come true in the last life.
+
+And in this one?
+
+"Dear cousin, you won't get into Stanford even in your dreams, but the schools at the very bottom of the list will always keep their doors wide open for you."
+`
+  },{
+    id: 41,
+    title: "The Roommate Alpha's Secret",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/the-roommate-alphas-secret.png",
+    link: "lgbt/the-roommate-alphas-secret.html",
+    type: "lgbt",
+    desc: `Having lost a game of dares, Wyatt had no choice but to shut both eyes and send a text as ordered to the cold alpha roommate:
+
+"Hey Grayson, I want to have a baby with you."
+
+Nobody expected the man to take it seriously. That very night, Grayson pinned Wyatt flat against the bed.
+
+Wyatt struggled helplessly: "Two alphas can't have a baby!"
+
+Grayson acted as though nothing had been said, a seductive smile curving across those lips: "Who says they can't? As long as I go in deep enough, you'll definitely get pregnant."
+`
+  },{
+    id: 42,
+    title: "Stealing a Fine Match",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/stealing-a-fine-match.png",
+    link: "eastern/stealing-a-fine-match.html",
+    type: "eastern",
+    desc: `Dressed in a phoenix coronet and embroidered shawl, Jiang Yan took the name of the elder sister and married Pei Qingyuan, eldest son of the Chancellor's Estate and the sister's childhood sweetheart.
+
+Jiang Yan had expected to be driven out of the estate once the truth came to light. Yet, strangely enough, the entire Chancellor's Estate remained eerily quiet, as though nothing had happened.
+
+Just as Jiang Yan moved to explain, Pei Qingyuan stopped the words with a smile:
+
+"Madam, once the nuptial cups have been drunk, there is no taking it back."
+`
+  },{
+    id: 43,
+    title: "Losing Grayson Forever",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/losing-grayson-forever.png",
+    link: "romance/losing-grayson-forever.html",
+    type: "romance",
+    desc: `Grayson Caldwell, heir to one of the most powerful families in the city, had spent years lowering his pride to chase Nora Bennett, and not once had Nora said yes.
+
+Then, in the seventh year, another girl appeared at Grayson's side.
+
+People said she was beautiful and gentle, born into a family that matched the Caldwells', and that she had given Grayson her whole heart.
+
+Grayson's friends took great pleasure in needling Nora about it.
+
+"Nora, if you keep freezing Grayson out like this, somebody's going to steal him right out from under you."
+`
+  },{
+    id: 44,
+    title: "The Secret Beneath the Snake’s Tail",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/the-secret-beneath-the-snakes-tail.png",
+    link: "lgbt/the-secret-beneath-the-snakes-tail.html",
+    type: "lgbt",
+    desc: `Drunk, Owen threw both arms around the aloof roommate he had been secretly pining over, and let the alcohol loosen the confession.
+
+"You know what? I'm intersex. I wonder if the person I like would find me disgusting..."
+
+Elliot Vance's breathing turned ragged and heavy at once, yet the expression on Elliot's face stayed cold, even faintly repulsed, as Elliot grabbed Owen by the collar and dragged Owen into the bathroom.
+
+Ice-cold water crashed down from the top of Owen's head, and a shudder ripped through Owen's whole body. Owen opened Owen's mouth to curse Elliot for losing Elliot's mind, and then Elliot's inner voice rang out, loud and clear:
+
+【Snakes hate the smell of alcohol more than anything.】
+
+【Damn it, my tail is about to pop out.】
+
+【But if he's intersex, then he has two of them, which means I could...】
+
+【Oh my god, he and I are literally made for each other!】
+`
+  },{
+    id: 45,
+    title: "When the Sophora Blooms, Awaiting a Lover",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/when-the-sophora-blooms-awaiting-a-lover.png",
+    link: "eastern/when-the-sophora-blooms-awaiting-a-lover.html",
+    type: "eastern",
+    desc: `Gu Xinlan was fond of telling Huai Xia that all people under heaven were equal, that Huai Xia had never been regarded as a servant, and that Gu Xinlan and Huai Xia were as close as sisters born of the same flesh and blood.
+
+Gu Xinlan flatly forbade Huai Xia to perform the proper courtesies, and Huai Xia was beaten with a rod by the madam for it.
+
+Gu Xinlan never handed out money as a reward, saying a servant should not be treated like a servant. And so, when Huai Xia's mother fell gravely ill, the family could not scrape together a single coin for medicine, and the poor woman had no choice but to die.
+
+Gu Xinlan also blocked Huai Xia from becoming the eldest young master's concubine, insisting that a person must live by the one true principle of one life, one lifetime, one pair, and so snuffed out the only road of survival Huai Xia had.
+
+Later, when Huai Xia risked life and limb to pull Gu Xinlan out of a raging current and then fell gravely ill, Gu Xinlan wept as though every intestine were being torn apart.
+
+But the moment Gu Xinlan learned that Huai Xia had contracted the contagious wasting sickness, servants were sent to drive Huai Xia out of the household without mercy, without so much as a scrap of silver for treatment.
+
+Huai Xia curled up on a tattered straw mat and breathed a last breath, eyes closing in bitter resentment.
+
+When Huai Xia opened both eyes again, the astonishing truth was clear: Huai Xia had been reborn, returned to the time of serving as Gu Xinlan's personal maid.
+`
   },
   
 
