@@ -928,6 +928,196 @@ Huai Xia curled up on a tattered straw mat and breathed a last breath, eyes clos
 
 When Huai Xia opened both eyes again, the astonishing truth was clear: Huai Xia had been reborn, returned to the time of serving as Gu Xinlan's personal maid.
 `
+  },{
+    id: 46,
+    title: "The Ending of a Miracle",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/the-ending-of-a-miracle.png",
+    link: "romance/the-ending-of-a-miracle.html",
+    type: "romance",
+    desc: `Ten years of youth poured into caring for Dean Mercer, a crippled boy forever sunk in gloom. Claire had spent countless hours and endless effort before that guarded heart finally began to melt.
+
+Part of it was the mission. Most of it was sincere pity.
+
+So when the system chimed its congratulations on a completed task, Claire chose to stay instead of leaving.
+
+Every point Claire had earned went toward a single trade: a healthy, whole body for Dean.
+
+Dean believed it was a miracle sent down from heaven. Dean started to climb, and before long was a name in the business world, the hottest rising star in the city.
+
+But along with that body came the scent of other women's perfume.
+
+Claire saw it with real eyes: Dean kissing a woman in a lavish private club. When someone happened to mention Claire's name, Dean only curled a lip in a smirk. "How could she possibly be good enough for me now?"
+
+Claire turned and walked away without a sound. "System, I want to leave this world."
+
+The system answered in its flat, mechanical voice. "But you don't have enough points."
+
+"Then take back that healthy body. I don't need it anymore."
+`
+  },{
+    id: 47,
+    title: "The Prodigy's Trap",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/the-prodigys-trap.png",
+    link: "lgbt/the-prodigys-trap.html",
+    type: "lgbt",
+    desc: `Ezra, an Alpha who had crossed over into the real world, was being spun in circles by a campus genius pretending to be an Omega.
+
+Nolan pinned Ezra hard into the corner of the wall and whispered:
+
+"I heard Alphas have a womb too. Can I touch it?"
+
+Only at the very last moment did Ezra wake up to the truth.
+
+Why was it Ezra who got eaten so thoroughly that not even a bone was left?
+`
+  },{
+    id: 48,
+    title: "The Emperor and Empress’s Script",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/the-emperor-and-empresss-script.png",
+    link: "eastern/the-emperor-and-empresss-script.html",
+    type: "eastern",
+    desc: `“Empress, His Majesty has taken Princess Xian into the palace as a consort! He specially sent this servant to report it to Your Highness.”
+
+The newly assigned palace maid did not yet know Chu Yanru’s temper, and feared the news would bring an outburst that would fall on an innocent bystander. The maid knelt flat on the floor, kowtowing again and again, not daring even to breathe loudly.
+
+In truth, Yanru had long ago stopped being surprised or unsettled by matters like this.
+`
+  },{
+    id: 49,
+    title: "Playing the Vicious Side Character Who Humiliates the Apocalypse Male Lead",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/playing-the-vicious-side-character-who-humiliates-the-apocalypse-male-lead.png",
+    link: "romance/playing-the-vicious-side-character-who-humiliates-the-apocalypse-male-lead.html",
+    type: "romance",
+    desc: `Wren Ashford was the shrewish side character in an apocalypse novel.
+
+To publicly shame the male lead, Wren slammed a takeout box to the ground and tipped up a chin, barking an order:
+
+"You got your princess's things dirty, you bad dog. Lick it clean for me. Now."
+
+Dax took it in silence, reaching out to catch Wren's fingertips, smeared with milk, every muscle in Dax's body pulled taut.
+
+[Love points +10]
+
+Wren froze. "What is this?"
+
+The System in Wren's head exploded with fury: "You idiot! You insulted him so hard that he's gone stupid for you!"
+
+Later, Dax, who had been playing the fool all along, shut Wren inside a golden cage and made Wren pay for every last insult.
+
+Dax caught Wren's ankle in a crushing grip, smiling a strained, feverish smile:
+
+"Miss, use a little more force."
+`
+  },{
+    id: 50,
+    title: "The Midnight Trap",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/the-midnight-trap.png",
+    link: "lgbt/the-midnight-trap.html",
+    type: "lgbt",
+    desc: `Dane Hale made a living in the underworld.
+
+Out of lust for the handsome husband of a sister who had run away, Dane had agreed to wear a mask for six whole years, playing a gentle, simple-hearted auto mechanic.
+
+By day, Dane kept the proper distance of a brother-in-law under the same roof. When night fell, Dane crept after closeness of a very different kind.
+
+Then came the day Dane could bear it no longer, and in broad daylight Dane tied the brother-in-law to the bed and said in a provocative drawl:
+
+"Professor, have you ever done it with a man?"
+
+"I have."
+`
+  },{
+    id: 51,
+    title: "The Reborn Demon Lord Fights the Immortal Lord for a Disciple",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/the-reborn-demon-lord-fights-the-immortal-lord-for-a-disciple.png",
+    link: "eastern/the-reborn-demon-lord-fights-the-immortal-lord-for-a-disciple.html",
+    type: "eastern",
+    desc: `The Beast Taming Pavilion handed out divine beasts.
+
+Having arrived late, Qing Yi received only a patchwork chimera that resembled nothing at all. It had the ugliest face, the foulest temper, and the weakest spiritual power of the lot.
+
+After a year of being drilled with a stick, the creature suddenly vanished.
+
+Three months later, the Demon Lord descended upon the Heavenly Realm and demanded, by name, a union with a "foolish Immortal Maiden."
+
+And the lost divine beast happened to be named Chouchou. It, too, had always been in the habit of calling Qing Yi exactly that.
+`
+  },{
+    id: 52,
+    title: "The Idol's Rival Is Victoria's Boyfriend",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/the-idols-rival-is-victorias-boyfriend.png",
+    link: "romance/the-idols-rival-is-victorias-boyfriend.html",
+    type: "romance",
+    desc: `Victoria had liked a gaming buddy for years, and every New Year's Eve, Derek got the same message from Victoria: [Honestly, I've liked you for years. Want to go out with me?]
+
+Derek: [Seen, no reply.]
+
+Victoria: [Get on the game.]
+
+Derek: [On my way.]
+
+Derek had never once answered the confession. Years of loving someone in secret with nothing to show for it wore Victoria down until quitting felt like the only choice, so Victoria deleted the game account, blocked every friend on the list, and vowed never to cross paths with Derek again.
+
+Instead, Derek, the sworn rival of Victoria's idol, went completely unhinged, tearing the world apart to find an online friend never once met in person.
+
+Later, when Derek finally discovered Victoria's true identity, Derek backed Victoria into a corner and kissed Victoria hard, voice rough and unreadable: "Why did you block me?"
+`
+  },{
+    id: 53,
+    title: "The Boiling Frog Trap",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/the-boiling-frog-trap.png",
+    link: "lgbt/the-boiling-frog-trap.html",
+    type: "lgbt",
+    desc: `Ever since childhood, Nathan's reactions had always been a beat slower than everyone else's.
+
+Yet Adrian Vance, the top-tier Alpha who had grown up as Nathan's closest friend, had always stayed by Nathan's side, looking after and doting on Nathan without limit.
+
+Over the years, countless people had teased the pair of them, all insisting that Nathan was Adrian's "child bride raised from a young age."
+
+But Nathan knew perfectly well that an ordinary Beta had no business standing beside the young master of the Vance family.
+
+So whenever such talk reached Nathan's ears, the correction came out earnestly:
+
+"Adrian and I are just good brothers. How could an Alpha and a Beta ever be together?"
+
+Because the bond between the two was so close, Adrian often asked Nathan for favors.
+
+Adrian claimed the room felt empty and lonely and cold at night, and demanded to hold Nathan while sleeping.
+
+Nathan had always believed it was nothing more than pure brotherly affection.
+
+Then one day, friends urged Nathan to go out and see a little of the world.
+
+That night, Nathan got blind drunk at a bar.
+
+When word reached Adrian, jealousy drove Adrian half out of Adrian's mind. In front of a crowd, Adrian had Nathan bound and carried away, and with red-rimmed eyes, stripping off clothes along the way, choked out a confession:
+
+"I never should have believed in that boiling frog nonsense. There are so many people out there with their eyes on you."
+`
+  },{
+    id: 54,
+    title: "The Younger Sister Stole the Betrothal and Married a Man Who Loves Men",
+    image: "https://ia800406.us.archive.org/14/items/sasahome_img/the-younger-sister-stole-the-betrothal-and-married-a-man-who-loves-men.png",
+    link: "eastern/the-younger-sister-stole-the-betrothal-and-married-a-man-who-loves-men.html",
+    type: "eastern",
+    desc: `Of all the young ladies in Shangjing, none lived more leisurely or more at ease than Zhang Shuqing.
+
+Shuqing's birth mother had died when Shuqing was only five, and Shuqing's stepmother, pitying a girl orphaned so young, was endlessly lenient and indulgent.
+
+In the bitter cold of winter, while Shuya, the half sister born of the same father, trudged through the snow to the academy to study with great diligence, Shuqing lay curled up on the heated brick bed reading storybooks at leisure.
+
+Through the sweltering heat of summer, while Shuya stood beneath the sun and painstakingly drilled every movement of the dance, Shuqing hugged a bowl of chilled shaved ice and idly turned the pages of a tale.
+
+Everyone under heaven praised Madam Zhang for a kindness equal to that of a birth mother.
+
+The truth came out only in Shuqing's seventeenth year, when Madam Zhang quietly switched the betrothal. The match that Shuqing's birth mother had arranged on the deathbed, with the young Heir of the Duke of Anguo's household, was handed over to Madam Zhang's own daughter.
+
+Only then did the world see the deep scheme Madam Zhang had so carefully laid over so many years.
+
+But for all the depth of that scheming, Madam Zhang's sight never reached beyond the cramped inner courtyards.
+
+A little effort spent asking around outside would have told Madam Zhang that the young Heir kept male favorites, and that taking a wife was nothing more than a duty to continue the family line.
+`
   },
   
 
